@@ -3,7 +3,8 @@ public class Main {
         System.out.println("Hello Ahmed"); // GOOD MORNING AHMED
         System.out.println("HP"); // good evining mohab
 
-        for(int i=0;i<50;i++)
-            System.out.println("AHMED ");
+        for(int i=0;i<3;i++)
+            System.out.println("AHMED كلب البحر");
+
     }
 }
