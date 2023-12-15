@@ -3,13 +3,14 @@ public class Main {
         System.out.println("Hello Ahmed"); // GOOD MORNING AHMED
         System.out.println("HP"); // good evining mohab
 
-        /*for(int i=0;i<3;i++){
-            System.out.println("AHMED كلب البحر");}
 
-        /*for(int i=0;i<3;i++){
-            System.out.println("مهاب عروسه النيل ");}*/
 
-        System.out.println("حياتي ما اجمل فيها بحس طعمة من تغيرة");
+        for(int i=0;i<1000;i++){
+            System.out.println("مش فاهم ");}
+
+
+
+
 
     }
 }
